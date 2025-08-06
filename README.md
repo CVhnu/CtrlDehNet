@@ -1,2 +1,2 @@
 # CtrlDehNet
-Follow-Your-Prompt: Controllable Image Dehazing with Autoencoder Models
+Follow-Your-Prompt: Controllable Image Dehazing via Latent Space Manipulation
